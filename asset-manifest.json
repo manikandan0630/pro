@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/pro/static/css/main.3f8e9a8f.css",
+    "main.js": "/pro/static/js/main.8b0d7092.js",
+    "static/js/453.117b0875.chunk.js": "/pro/static/js/453.117b0875.chunk.js",
+    "static/media/test-5.jpg": "/pro/static/media/test-5.4fcdc7124bafe1197a5a.jpg",
+    "static/media/test-2.jpg": "/pro/static/media/test-2.ebd08fe9bc14db494c5c.jpg",
+    "static/media/test-1.jpg": "/pro/static/media/test-1.0e47e204becc2491d7f8.jpg",
+    "static/media/test-3.jpg": "/pro/static/media/test-3.cb9045da862a5c463617.jpg",
+    "static/media/test-4.jpg": "/pro/static/media/test-4.59a7d326f655b6d6a600.jpg",
+    "static/media/Group409.png": "/pro/static/media/Group409.4134509cf3c3546c8892.png",
+    "static/media/hero-3.png": "/pro/static/media/hero-3.6171a1658c7af9937d9e.png",
+    "static/media/hero-4.png": "/pro/static/media/hero-4.b2f270a0245e3df8309e.png",
+    "static/media/group.png": "/pro/static/media/group.c7acbd7a0580bbd1ab50.png",
+    "static/media/banner-4.png": "/pro/static/media/banner-4.bf530dab65ba72d78964.png",
+    "static/media/Group52.png": "/pro/static/media/Group52.69669883ac3a94b1807f.png",
+    "static/media/Group47.png": "/pro/static/media/Group47.6bbeab01e05ab91aa9f4.png",
+    "static/media/hero-1.png": "/pro/static/media/hero-1.c4c2f4a69c4bb839b731.png",
+    "static/media/Group48.png": "/pro/static/media/Group48.d23e13c6435f664b5975.png",
+    "static/media/banner-3.png": "/pro/static/media/banner-3.c55876c4b32b22f3ed5e.png",
+    "static/media/banner-2.png": "/pro/static/media/banner-2.4a29d22502737de273a9.png",
+    "static/media/HomeHero.png": "/pro/static/media/HomeHero.2e381680703fecad7fb5.png",
+    "static/media/banner-1.png": "/pro/static/media/banner-1.acf301376c0e4bb280d1.png",
+    "static/media/hero-2.png": "/pro/static/media/hero-2.f9125cedeca63cff7b5f.png",
+    "static/media/Contact.png": "/pro/static/media/Contact.520a11fb819229525e3b.png",
+    "static/media/about.png": "/pro/static/media/about.60deb2cbc3498bf54f91.png",
+    "static/media/footer.png": "/pro/static/media/footer.c2f82f2012029ae57889.png",
+    "static/media/Cook-5.png": "/pro/static/media/Cook-5.35a7e9f24b6002478388.png",
+    "static/media/logo.svg": "/pro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pro/index.html",
+    "main.3f8e9a8f.css.map": "/pro/static/css/main.3f8e9a8f.css.map",
+    "main.8b0d7092.js.map": "/pro/static/js/main.8b0d7092.js.map",
+    "453.117b0875.chunk.js.map": "/pro/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f8e9a8f.css",
+    "static/js/main.8b0d7092.js"
+  ]
+}
